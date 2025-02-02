@@ -9,5 +9,8 @@
   "description": "",
   "devDependencies": {
     "@repo/typescript-config": "workspace:*"
+  },
+  "dependencies": {
+    "prisma": "^6.3.0"
   }
 }
