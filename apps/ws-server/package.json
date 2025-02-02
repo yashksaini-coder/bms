@@ -9,5 +9,9 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@types/ws": "^8.5.14",
+    "websocket": "^1.0.35"
+  }
 }
