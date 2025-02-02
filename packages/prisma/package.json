@@ -4,6 +4,9 @@
   "main": "index.js",
   "keywords": [],
   "author": "",
+  "exports": {
+    "./client": "./src/index.js"
+  },
   "license": "ISC",
   "type": "commonjs",
   "description": "",
